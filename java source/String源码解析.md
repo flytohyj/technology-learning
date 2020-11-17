@@ -1,6 +1,6 @@
 ## **HashMap源码思维导图**
 
-<img src="D:\workspace\gitee\technology-learning\java源码解析\String源码思维导图.png" alt="String源码思维导图" style="zoom:200%;" />
+<img src="String.png" alt="String源码思维导图" style="zoom:200%;" />
 
 ## **常见面试题**
 
