@@ -7,7 +7,14 @@
     <artifactId>technology-learning</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <netty.version>4.1.56.Final</netty.version>
+    </properties>
     <modules>
         <module>Pattern</module>
+        <module>NettyAction</module>
     </modules>
 </project>
