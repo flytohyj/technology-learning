@@ -1,4 +1,4 @@
-## JVM思维导图**
+## Dubbo思维导图
 
 <img src="DUBBO.png" alt="DUBBO思维导图" style="zoom:200%;" />
 
